@@ -4,9 +4,9 @@ This project is a simple payment form created using HTML and CSS. It allows user
 
 ## How to Use
 
-1. Open the `index.html` file in your web browser.
-2. Fill in your cardholder name, card number, expiration date, and CVV in the respective fields.
-3. Click on the "Submit" button to proceed with the payment process.
+1. Open the `payment.html` file in your web browser.
+2. Fill in your cardholder name, card number, expiration date, CVV & other required details in the respective fields.
+3. Click on the "Pay Now" button to proceed with the payment process.
 
 That's it! Enjoy using the payment form!
 
